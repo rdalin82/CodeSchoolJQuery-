@@ -1,0 +1,4 @@
+advanced plugins concepts from jquery.com
+
+jose on code has more deferred and promise explanation 
+
